@@ -11,14 +11,7 @@ parts of MVC model. This allows us to extend the project to mobile applications 
 
 
 
-Instruction For Installetion : 
-===============================
-
-=> 	Create a databse name with attendance
-=>	Import database file
-=>	Copy whole document into your local server
-=>	type any browser https://localhost/Attendance
-=>	Create Teacher profile by click on teacher dashboard
+### [Take a look at me on Linkedin](https://www.linkedin.com/in/jewelranawebexpart/)
 
 
 
