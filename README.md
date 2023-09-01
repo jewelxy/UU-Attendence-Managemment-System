@@ -11,7 +11,7 @@ parts of MVC model. This allows us to extend the project to mobile applications 
 
 
 
-### [Take a look at me on Linkedin](https://www.linkedin.com/in/jewelranawebexpart/)
+### [Take a look at Linkedin](https://www.linkedin.com/in/jewelranadev/overlay/1537270025887/single-media-viewer/?profileId=ACoAACcpuAIBhDTqfht2yrmW9nMBCs6wm360dEM)
 
 
 
